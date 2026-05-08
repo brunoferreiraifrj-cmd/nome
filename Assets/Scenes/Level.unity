@@ -180,10 +180,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Vit\xF3ria"
+  m_text: Vitoria
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
+  m_sharedMaterial: {fileID: -4472700072626659850, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -315,10 +315,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Vit\xF3ria"
+  m_text: Vitoria
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
+  m_sharedMaterial: {fileID: -4472700072626659850, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1032,6 +1032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fc3dcf6d58c7e647b899a8415cd562f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  source: {fileID: 1372548743}
   lixoSpawnerController: {fileID: 1358599735}
 --- !u!82 &1372548743
 AudioSource:
@@ -1187,10 +1188,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Vit\xF3ria"
+  m_text: Vitoria
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
+  m_sharedMaterial: {fileID: -4472700072626659850, guid: 8653f03fc8d41ad44b03dbed1a0dbe1a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
